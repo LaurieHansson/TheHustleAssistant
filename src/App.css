@@ -5,6 +5,7 @@ body {
   font-family: "montserrat";
   letter-spacing:.3em;
   background-color:whitesmoke; 
+  background:linear-gradient(whitesmoke 90%, black 50%)fixed;
 }
 
 #root{
@@ -56,9 +57,6 @@ input,input[placeholder]{
   justify-content:center;
   align-items:center;
   align-content:center;
-  margin-top:10em;
+  margin-top:5em;
   border-top:1em black solid;
- 
-  
-  
 }
